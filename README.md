@@ -40,41 +40,52 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 ## 2008 - 2011
 
-###DENIR TOURS
+### DENIR TOURS
+
 **_Administrador_**
 
 - `Administración de los servicios informáticos del grupo de empresas del sector turístico. Webmaster y generador de contenidos para las webs del grupo. Plataforma propia. Sistemas Windows, MacOS, backups.`
 
 ## 2006 - 2007
 
-###GRUPO AVALON para Instituto Estudios Turísticos
+### GRUPO AVALON para Instituto Estudios Turísticos
+
 **_Técnico Informático_**
 
 - `Administración de los servicios del IET, gestión backups, resolución incidencias, webmaster. Colaboración en el proyecto de migración del gestor interno a Sharepoint 2003.`
 
 ## 2003 - 2006
 
-###BILBOMATICA / IDEA INFORMATICA para Instituto Nacional del Consumo
+### BILBOMATICA / IDEA INFORMATICA para Instituto Nacional del Consumo
+
 **_Técnico Informático_**
 
 - `Administración de los sistemas en el Centro de Investigación y Control de la Calidad, Windows, SQL Server, Informix.`
 
-#CONOCIMIENTOS
+# CONOCIMIENTOS
+
 `Windows` `Linux / MacOS` `Powershell` `Python`
-#TECNOLOGÍAS
+
+# TECNOLOGÍAS
+
 `IIS` `Dynatrace` `Openshift` ` Ansible Tower ``Jenkins ` `Powershell` `ServiceNow` `Git/GitHub` `JIRA`
 
 # TITULACIÓN
 
 ## Técnico en Redes y Comunicaciones
 
-###Garben
-####1999
+### Garben
 
-#Técnico en Redes y SSOO
-##Kernel
-####1999
+#### 999
 
-##Inglés C1
-###UNED
-####2021
+# Técnico en Redes y SSOO
+
+## Kernel
+
+#### 1999
+
+## Inglés C1
+
+### UNED
+
+#### 2021
