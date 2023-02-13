@@ -31,7 +31,8 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 ## 2011 - 2013
 
-###GRUPO AVALON
+### GRUPO AVALON
+
 **_Administrador_**
 
 - `Resolución de problemas en AD, seguimiento y optimización de procesos del operativo de sistemas. Windows. CITRIX. Oracle VM. Exchange 2007. SUSE Linux. ARCServe Backup y aplicaciones Jboss propietarias que dan servicio a www.cmtabacos.es. (>100 usuarios en sede).`
