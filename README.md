@@ -68,7 +68,7 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 # TECNOLOGÍAS
 
-`IIS` `Dynatrace` `Openshift` ` Ansible Tower ``Jenkins ` `Powershell` `ServiceNow` `Git/GitHub` `JIRA`
+`IIS` `Dynatrace` `Openshift` `Ansible Tower` `Jenkins` `Powershell` `ServiceNow` `Git/GitHub` `JIRA`
 
 # TITULACIÓN
 
