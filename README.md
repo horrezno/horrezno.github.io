@@ -64,7 +64,7 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 # CONOCIMIENTOS
 
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]
+<!-- [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)] -->
 
 `Windows` `Linux / MacOS` `Powershell` `Python`
 
