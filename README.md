@@ -78,7 +78,7 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 ### Garben
 
-#### 999
+#### 1999
 
 ## Técnico en Redes y SSOO
 
