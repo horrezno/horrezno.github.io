@@ -80,9 +80,9 @@ _24 años resolviendo problemas en entornos con Sistemas Windows, Linux , Mac, B
 
 #### 999
 
-# Técnico en Redes y SSOO
+## Técnico en Redes y SSOO
 
-## Kernel
+### Kernel
 
 #### 1999
 
